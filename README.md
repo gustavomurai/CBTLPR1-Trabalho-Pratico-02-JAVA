@@ -1,4 +1,4 @@
-# 📘 CTBLPR1 (Java) – ADS 371  
+# 📘 CTBLPR1 (Java) – ADS 
 ### 💻 Exercícios Resolvidos em Java – Gustavo Murai & Igor Murai
 
 Este repositório contém a resolução completa da **Lista de Exercícios TP02** da disciplina **CTBLPR1 (Java) – Análise e Desenvolvimento de Sistemas (ADS 371)**, desenvolvida em **Java** utilizando o **Visual Studio Code**.
